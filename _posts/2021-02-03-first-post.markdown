@@ -5,7 +5,7 @@ date: '2021-02-03 00:00:00 +0300'
 description: The first blog post of Money Makers Sweden website.
 img: software.jpg
 tags: null
-published: true
+hidden: false
 ---
 ### First Post!
 
