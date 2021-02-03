@@ -1,21 +1,21 @@
 title: Money Makers Nordic
-description: > # this means to ignore newlines until "baseurl:"
-  Money Makers Nordic help you become a better investor in the Nordic countries.
+description: # > # this means to ignore newlines until "baseurl:"
+  Money makers Nordic help you who are new in one of the Nordic countries make the most of your money and investments.
 permalink: ':title/'
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Money Makers # add your name
+author: Money Makers Nordic # add your name
 author-img: mm-logo-old.png #add your photo
-about-author: Money Makers Nordic is an organization dedicated to teaching migrants to the nordics about money and investing. # add description
+about-author: We help you who are new in one of the Nordic countries make the most of your money and investments. # add description
 social-instagram: moneymakersnordic
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github: # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-email: moneymakersnordic@gmail.com # add your Email address
+social-github: #moneymakersnordic # add your Github handle
+social-linkedin: #
+social-facebook: #
+social-twitter: #
 
 # Disqus
 discus-identifier: # add your discus identifier
