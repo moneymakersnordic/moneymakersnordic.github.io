@@ -10,7 +10,7 @@ published: true
 ---
 ### First Post!
 
-This is the first post on our website. It was written using an online tool called [prose.io](prose.io/#about) that makes it easy to make blog posts from plain markdown files.
+This is the first post on our website. It was written using an online tool called [prose.io](https://prose.io/#about) that makes it easy to make blog posts from plain markdown files.
 
 We are The Money Makers.
 
