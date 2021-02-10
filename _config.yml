@@ -1,16 +1,17 @@
-title: Money Makers Nordic
+title: TheMoneyMakers.se 
 description: > # this means to ignore newlines until "baseurl:"
-  We help you who are new in one of the Nordic countries make the most of your money and investments.
+  We help you who are new in Sweden make the most of your money and start investing.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Money Makers Nordic # add your name
-author-img: mm-logo-old.png #add your photo
-about-author: We help you who are new in one of the Nordic countries make the most of your money and investments. # add description
-social-instagram: moneymakersnordic
+author: The Money Makers .se # add your name
+author-img: mm-logo-old.png # add your photo
+about-author: We help you who are new in Sweden make the most of your money and start investing. Follow us on instagram by pressing the icon below # Sidebar description
+# add description
+social-instagram: themoneymakers.se
 social-email: moneymakersnordic@gmail.com # add your Email address
 social-github: #moneymakersnordic # add your Github handle
 social-linkedin: #
