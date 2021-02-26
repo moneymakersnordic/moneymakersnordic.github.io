@@ -1,7 +1,7 @@
 # moneymakersnordic.github.io
 Website
 
-Editors can use [prose.io](http://prose.io/#about) for publishing.
+Editors can use [prose.io](http://prose.io/) for publishing. Learn more about it [here](http://prose.io/).
 
 ## TODO
 
@@ -12,4 +12,3 @@ Editors can use [prose.io](http://prose.io/#about) for publishing.
 ## DONE
 - CMS solution for editing and publishing posts. 
 - Cloudflare [stack](https://scotch.io/tutorials/jekyll-github-pages-and-cloudflare-for-pagespeed-win) with loopia like [this](https://github.com/attilac/github-custom-domain-loopia)
-
