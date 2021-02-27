@@ -1,6 +1,6 @@
 # moneymakersnordic.github.io
 
-Website: [themoneymakers.se](https://www.themoneymakers.se/)
+Website: [themoneymakers.se](https://www.themoneymakers.se/) is hosted right here.
 
 ## Contributors
 1. Register at [github.com](https://www.github.com/) and tell me your username.
