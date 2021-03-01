@@ -22,6 +22,8 @@ Upload the image to the `assets/img/` folder and note the filename.
 
 - Setup comments with disqus
 - Setup gmail through `contact@moneymakers.se` alias + Cloudfare MX record
+- Fix sharing buttons on posts. Currently links break...
+- 
 
 
 ## DONE
