@@ -7,7 +7,7 @@ description:   asd                 # Post description (optional)
 img: file_name.png              # Post image (optional). Must be in `/assets/img`
 fig-caption:                    # Post image caption (optional)
 tags: [Stocks, Investing]       # Post tags (optional)
-hidden: false                   # Hide the post (true or false) (optional)
+hidden: true                    # Hide the post (true or false) (optional)
 ---
 
 Above you should have three dashes, `---` separating the configuration above it (in Ruby code format) from the content of the post here below it (in markdown format). Those dashes and everything above isn't actually visible on the site.
@@ -19,8 +19,7 @@ No need to start your post with a heading, since post title will be right above.
 0. Copy this template and rename it to the right date and add a name (lowercase with - as separators).
 1. Set "layout: " to "post"
 2. Choose a title
-3. Choose a date.
-    - You can schedule posts by giving them a future date. Not sure how fast updates are though...
+3. Choose a date 
 4. (optional) Set a post description
 5. (optional) Choose an image for the post
 6. (optional) Set a caption for that image
