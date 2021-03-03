@@ -23,9 +23,9 @@ You really only need to care about the `_posts/` and `assets/img/` folders.
 
 ### Adding images
 Upload the image to the `assets/img/` folder and give it a good filename.
-- **In-text image**: Insert two hard brackets followed by two parantheses, and add the image tooltip text between the former, and the filename between the latter. For example: `[This is an image of a coin](assets/img/coin.jpg)` with the file located in `assets/img/coin.jpg`.
-- **Post thumbnail image**: In the front matter at the top between the `---` rows, add the following: `img: coin.jpg` with the image file `coin.jpg` located in `assets/img/coin.jpg`.
-	- Note: The path is not needed here.
+- **In-text image**: Insert a ! followed by two hard brackets followed by two parantheses, and add the image tooltip text between the former, and the filename between the latter. For example: `![This is an image of a coin](assets/img/coin.jpg)` with the file located in `assets/img/coin.jpg`.
+- **Post thumbnail image**: In the front matter at the top above the separating `---` row, set the following: `img: coin.jpg` with the image file located in `assets/img/coin.jpg`.
+	- *Note:* The path is not needed here.
 
 ## TODO
 - Setup comments with disqus
