@@ -7,6 +7,8 @@ fields:
   label: layout
   hidden: true
   default: post
+  config:
+    required: true
 - type: text
   name: title
   label: title
@@ -18,13 +20,14 @@ fields:
   label: description
 - type: file
   name: img
-  label: img
-- type: text
-  name: fig-caption
-  label: fig-caption
+  label: Image
+  description: The image shown at the display card as well as top of the blog page
 - type: list
   name: tags
-  label: tags
+  label: Tags
+  config:
+    min: 1
+    max: 10
 - type: boolean
   name: hidden
   label: hidden
