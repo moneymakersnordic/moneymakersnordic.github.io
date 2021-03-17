@@ -31,3 +31,5 @@ fields:
 - type: boolean
   name: hidden
   label: hidden
+pages:
+- _posts/forestry-publishing-post.md
